@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぎゅって",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-16T08:46:34.940879Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぎゅって",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_ぎゅって_MIMI.txt"
+    }
+  ]
+}
